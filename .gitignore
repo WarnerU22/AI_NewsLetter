@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# VS Code files
+.vscode/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Cache
+.cache/
